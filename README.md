@@ -63,7 +63,7 @@
     git add *file* - file with changes
     git commit -m "Commit changes"
         or
-    git commit -a -m "*commit*"
+    git commit -a -m "*commit changes*"
 
 ## JOIN SOME COMMIT
 
@@ -88,8 +88,7 @@
 ## CREATE NEW BRANCH
 
     git branch *new-branch*
-    git checkoout *branch*
-    git branch
+    git checkout *new-branch*
         or
     git checkout -b *new-branch*
 
